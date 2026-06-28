@@ -1,0 +1,45 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 0,
+    "width": 900,
+    "height": 1200,
+    "isRotated": false,
+    "originalWidth": 900,
+    "originalHeight": 1200
+  },
+  "imagePath": "image-targets/targetSulatronico_original_luminance.png",
+  "metadata": {
+    "type": "PLANAR",
+    "properties": {
+      "top": 0,
+      "left": 0,
+      "width": 900,
+      "height": 1200,
+      "isRotated": false,
+      "originalWidth": 900,
+      "originalHeight": 1200
+    },
+    "imagePath": "image-targets/targetSulatronico_original_original_luminance.png",
+    "metadata": null,
+    "name": "targetSulatronico_original_original",
+    "resources": {
+      "originalImage": "targetSulatronico_original_original_original.png",
+      "croppedImage": "targetSulatronico_original_original_cropped.png",
+      "thumbnailImage": "targetSulatronico_original_original_thumbnail.png",
+      "luminanceImage": "targetSulatronico_original_original_luminance.png"
+    },
+    "created": 1780486101157,
+    "updated": 1780486101157
+  },
+  "name": "targetSulatronico_original",
+  "resources": {
+    "originalImage": "targetSulatronico_original_original.png",
+    "croppedImage": "targetSulatronico_original_cropped.png",
+    "thumbnailImage": "targetSulatronico_original_thumbnail.png",
+    "luminanceImage": "targetSulatronico_original_luminance.png"
+  },
+  "created": 1780486101157,
+  "updated": 1780486919939
+}
